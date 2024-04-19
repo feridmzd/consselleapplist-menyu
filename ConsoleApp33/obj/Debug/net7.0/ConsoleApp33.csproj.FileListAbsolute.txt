@@ -1,0 +1,15 @@
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\bin\Debug\net7.0\ConsoleApp33.exe
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\bin\Debug\net7.0\ConsoleApp33.deps.json
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\bin\Debug\net7.0\ConsoleApp33.runtimeconfig.json
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\bin\Debug\net7.0\ConsoleApp33.dll
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\bin\Debug\net7.0\ConsoleApp33.pdb
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\obj\Debug\net7.0\ConsoleApp33.csproj.AssemblyReference.cache
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\obj\Debug\net7.0\ConsoleApp33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\obj\Debug\net7.0\ConsoleApp33.AssemblyInfoInputs.cache
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\obj\Debug\net7.0\ConsoleApp33.AssemblyInfo.cs
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\obj\Debug\net7.0\ConsoleApp33.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\obj\Debug\net7.0\ConsoleApp33.dll
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\obj\Debug\net7.0\refint\ConsoleApp33.dll
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\obj\Debug\net7.0\ConsoleApp33.pdb
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\obj\Debug\net7.0\ConsoleApp33.genruntimeconfig.cache
+C:\Users\ca.r215.17\Desktop\ConsoleApp33\ConsoleApp33\obj\Debug\net7.0\ref\ConsoleApp33.dll
